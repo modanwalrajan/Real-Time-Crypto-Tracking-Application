@@ -8,7 +8,7 @@ Setup Instructions
 Tech Stack + Architecture
 - Frontend: React
 - State Management: Redux Toolkit
-- WebSocket Simulation: setInterval with mocked class
+- WebSocket Simulation: using setInterval 
 - UI: Responsive table with color-coded % changes
 
 demo video of application - https://youtu.be/dR9kPZccWxE
